@@ -27,6 +27,6 @@ En el siguiente proyecto se nos pide replicar el sitio **Freelancer**:
 * Esta web utiliza 2 tipografías: `Montserrat` y `Lato`.
 * Los íconos de redes sociales fuerón obtenidos de [Font Awesome](http://fontawesome.io/).
 
-* Puede ver el [sitio original](https://blackrockdigital.github.io/startbootstrap-freelancer/)
-## Observaciones
+* Puede ver el [Proyecto en vivo](https://jennifercarmen.github.io/freelancerSp2/)
+## Creditos
 * Jennifer Milagros Carmen Sosa
