@@ -18,10 +18,9 @@ En el siguiente proyecto se nos pide replicar el sitio **Freelancer**:
 ![EstructuraFreelancer](assets/images/estructura.jpg)
 
 ## Estructura de archivos
-- Dentro del proyecto AppLove encontramos  el archivo `index.html` y 2 carpetas: assets y css
+- Dentro del proyecto  encontramos  el archivo `index.html` y 2 carpetas: assets y css
 - La carpeta `assets` tiene contenido los recursos a utilizar para nuestro sitio web(imagenes, iconos,etc)
 - En la carpeta `css` se tiene un archivo base `main.css` que sera la hoja de estilos a utilar para nuestro proyecto
-- El tipo de fuente utilizado es `Raleway`.
 ## Observaciones
 
 * Esta web utiliza 2 tipografías: `Montserrat` y `Lato`.
