@@ -1,0 +1,81 @@
+/*!
+ * Start Bootstrap - Freelancer v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/freelancer)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
+ */
+body {
+margin: 0;
+padding: 0;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+background-color: #2c3e50;
+}
+.content{
+  width: 1140px;
+}
+div {
+  display: inline-block;
+  border: 1px solid;
+}
+.box-footer{
+  box-sizing: border-box;
+  width: 377px;
+  float: left;
+
+  height: 168px;
+  margin-bottom: 52px;
+}
+.list-footer {
+    padding-left: 0;
+    list-style: none;
+}
+i{
+  color: white;
+}
+
+.list-social {
+    display: inline-block;
+}
+.btn-footer {
+    font-size: 20px;
+    line-height: 45px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Montserrat,sans-serif;
+    font-weight: 700;
+  }
+  h3{
+    font-size: 1.75rem;
+    font-weight: bold;
+    margin-top: 0px;
+  }
+  p {
+    font-family: Lato,sans-serif;
+
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+  .text-uppercase{
+    text-transform: uppercase;
+  }
+  .footer-content2{
+    padding-top: 26px;
+    margin-bottom: 40px;
+    width: 1140px;
+  }
+  .footer-content2 .text{
+    font-family: Lato,sans-serif;
+  }
+.text-center{
+  text-align: center;
+}
